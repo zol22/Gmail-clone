@@ -1,3 +1,16 @@
+/* 
+  yarn add react-hook-form
+  sudo npm install -g firebase-tools
+  yarn add firebase
+  Create a file called, firebase.js -> copy the config SDK setup
+  to deploy:
+    firebase login
+    firebase init (type build for public directory)
+    npm run build
+    firebase deploy
+*/
+
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
